@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ArcadeVehicle",
+	"Description": "Arcade vehicle plugin based on Space Dust conference talk.",
+	"Category": "Other",
+	"CreatedBy": "vorixo",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ArcadeVehicle",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

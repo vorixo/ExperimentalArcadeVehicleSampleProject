@@ -1,0 +1,44 @@
+Intermediate
+Binaries
+DerivedDataCache
+Saved
+SceneText
+
+data
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+
+# Visual Studio Cache
+.vs
+
+#Rider Cache
+.idea
+
+# Plugins
+Plugins/**/Intermediate
+Plugins/**/Binaries
+
+Config/DefaultEditorPerProjectUserSettings.ini
+
+# Builds
+Build
+!Build/Windows
+
+# Other Files
+server.bat
+
+# Steam Deploy
+Lib/Steam/*
+!Lib/Steam/steamcmd.exe
+Lib/SteamScripts/*
+
+!*.keep
+!Plugins/Runtime/Substance/Libs/**/*
+
+# Marketplace (Some require plugins like Substance)
+Content/Tracks_n_Paths/*
+Content/Splinetool_V2/*
