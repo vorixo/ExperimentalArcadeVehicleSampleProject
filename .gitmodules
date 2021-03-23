@@ -1,0 +1,3 @@
+[submodule "Plugins/ExperimentalArcadeVehicle"]
+	path = Plugins/ExperimentalArcadeVehicle
+	url = https://github.com/vorixo/ExperimentalArcadeVehicle.git
